@@ -23,7 +23,10 @@
 
 
 
-# Tarefas para Lançamento:
+
+
+
+# Tarefas para Lançamento
 
 ## Dev - App
 
