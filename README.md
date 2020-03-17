@@ -77,6 +77,6 @@
 
 + Redigir Termos de Uso (considerando versão beta e solicitaçes de feedbacks) e de Privacidade
 
-+ Criar página ou forma de contato para estudantes interessados, e que concordarem com os termos (versão beta) solicitarem permissão de cadastro (caso prefira não permitir todos os alunos do Probante de um vez)
++ Criar página ou forma de contato para estudantes interessados, que concordarem com os termos (versão beta) solicitar permissão de cadastromento e uso do app (caso prefira não permitir todos os alunos do Probante de um vez)
 
 + Criar página, ou formulário Google, para avaliação e feedback sobre o App (tanto Estudantes como Mentores selecionados)
