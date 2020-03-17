@@ -32,9 +32,9 @@
 
 + (*) Ajustes no primeiro acesso
    - Verificar se o estudante é permitido (cpf ou email) e se ainda não tem cadastro
-   - Retirar seleção de perfil (apenas estudante se cadastrarão)
+   - Retirar seleção de perfil (apenas estudantes se cadastrarão)
 
-+ (*) Bloquear gestão de perfil pra Professores/Mentores (serão selecionados cadastrados manualmente)
++ (*) Bloquear gestão de perfil pra Professores/Mentores (serão selecionados e cadastrados manualmente)
 
 + (*) Validar tela de notificações recebidas (e retirá-la dessa versão caso possa causar problema)
 
