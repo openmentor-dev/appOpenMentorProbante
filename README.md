@@ -75,7 +75,7 @@
 
 + Planejar divulgação para os estudantes/testers, e se for o caso, avisar sobre a versão ser Beta (em teste e exclusiva para eles [?])
 
-+ Redigir Termos de Uso, de Privacidade
++ Redigir Termos de Uso (considerando versão beta e solicitaçes de feedbacks) e de Privacidade
 
 + Criar página ou forma de contato para estudantes interessados, e que concordarem com os termos (versão beta) solicitarem permissão de cadastro (caso prefira não permitir todos os alunos do Probante de um vez)
 
